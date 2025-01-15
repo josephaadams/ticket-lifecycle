@@ -6,10 +6,6 @@
 Welcome to my project showcasing the ticket lifecycle in osTicket, from the moment a ticket is submitted to its successful resolution. This walkthrough highlights my hands-on experience managing tickets, documenting progress, and driving them to completion. I've included screenshots and descriptions to guide you through the process as I experienced it.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
