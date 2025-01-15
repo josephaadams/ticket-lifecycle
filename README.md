@@ -29,11 +29,12 @@ Welcome to my project showcasing the ticket lifecycle in osTicket, from the mome
 
 <h2>Lifecycle Stages</h2>
 
-<p>
-<img src="https://i.imgur.com/2rTLLUd.png"/>
-</p>
+
 <p>
 This is the dashboard where I received the ticket.
+</p>
+<p>
+<img src="https://i.imgur.com/2rTLLUd.png"/>
 </p>
 <br />
 
