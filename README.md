@@ -39,8 +39,13 @@ This is the dashboard where I received the ticket.
 <br />
 
 
+**2. Ticket Assignment**
+
+What I Did:
+
+I assigned the ticket to the appropriate agent or team based on its priority and nature. This step was crucial in making sure the ticket was routed correctly for resolution.
 <p>
-This is where I observed the ticket and assigned a priority, and updated the ticket to working and assigned a priority. In this case since the user couldn't log in to her PC this is considered a high priority issue that needs attention quick.
+This is where I observed the ticket, updated the status to working and assigned a priority. In this case since the user couldn't log in to her PC this is considered a high priority issue that needs attention quick.
 </p>
 <p>
 <img src="https://i.imgur.com/M3kvpAY.png"/>
@@ -48,8 +53,13 @@ This is where I observed the ticket and assigned a priority, and updated the tic
 <br />
 
 
+**3. Adding Comments, Updates and Resolution**
+
+What I Did:
+
+As I worked on the ticket, I added comments and updates to document my progress. I used this step to keep all stakeholders informed and to communicate any necessary details to the end user.
 <p>
-This is where I updated the ticket with the steps I was taking and keeping Michelle updated. The resolution was sending a password reset to the user and she confirmed she was able to log in after.
+After troubleshooting and resolving the issue, I marked the ticket as "Closed." I made sure to provide a clear and detailed resolution summary in the comments so the end user knew the issue was resolved.
 </p>
 <p>
 <img src="https://i.imgur.com/tUP4Bgi.png"/>
