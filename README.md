@@ -25,7 +25,9 @@ Welcome to my project showcasing the ticket lifecycle in osTicket, from the mome
 
 <h2>Lifecycle Stages</h2>
 
-
+1. Ticket Intake
+What I Did:
+At the start of the process, I reviewed the details of the ticket submitted by the end user. My role was to ensure all necessary information was included and to prepare the ticket for further action.
 <p>
 This is the dashboard where I received the ticket.
 </p>
