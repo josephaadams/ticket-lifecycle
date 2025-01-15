@@ -21,7 +21,7 @@ Welcome to my project showcasing the ticket lifecycle in osTicket, from the mome
 - Ticket Intake
 - Ticket Assignment
 - Working the Issue
-- Resolution
+- Adding Comments, Updates and Resolution
 
 <h2>Lifecycle Stages</h2>
 
@@ -59,7 +59,7 @@ What I Did:
 
 As I worked on the ticket, I added comments and updates to document my progress. I used this step to keep all stakeholders informed and to communicate any necessary details to the end user.
 <p>
-After troubleshooting and resolving the issue, I marked the ticket as "Closed." I made sure to provide a clear and detailed resolution summary in the comments so the end user knew the issue was resolved.
+After troubleshooting and resolving the issue, I marked the ticket as "Resolved." I made sure to provide a clear and detailed resolution summary in the comments so the end user knew the issue was resolved.
 </p>
 <p>
 <img src="https://i.imgur.com/tUP4Bgi.png"/>
