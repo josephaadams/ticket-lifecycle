@@ -38,18 +38,20 @@ This is the dashboard where I received the ticket.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/M3kvpAY.png"/>
-</p>
+
 <p>
 This is where I observed the ticket and assigned a priority, and updated the ticket to working and assigned a priority. In this case since the user couldn't log in to her PC this is considered a high priority issue that needs attention quick.
 </p>
+<p>
+<img src="https://i.imgur.com/M3kvpAY.png"/>
+</p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/tUP4Bgi.png"/>
-</p>
+
 <p>
 This is where I updated the ticket with the steps I was taking and keeping Michelle updated. The resolution was sending a password reset to the user and she confirmed she was able to log in after.
+</p>
+<p>
+<img src="https://i.imgur.com/tUP4Bgi.png"/>
 </p>
 <br />
